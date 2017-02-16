@@ -14,3 +14,9 @@ How do the diagrams help you visualize the branch structure?
 
 Each branch is clearly shown where it is connected to the master.
 This allows a programmer to keep track of all the different features.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+One branch label is erased and combined with the master branch.
+Because the experimental branch was erased, it is almost as if
+it was subsumed into the master branch.
