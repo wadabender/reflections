@@ -1,0 +1,5 @@
+How can you use the staging area to make sure you have one commit per logical change?
+
+The staging area forces you to consciously add files to change at once.
+This can help ensure that you only stage files you know need to go
+together.
