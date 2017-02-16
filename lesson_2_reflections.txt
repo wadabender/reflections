@@ -9,3 +9,8 @@ What are some situations when branches would be helpful in keeping your history 
 Ex: making different language versions. They would create different
 versions which would allow me to make text changes without effecting
 the development of the main english version.
+
+How do the diagrams help you visualize the branch structure?
+
+Each branch is clearly shown where it is connected to the master.
+This allows a programmer to keep track of all the different features.
