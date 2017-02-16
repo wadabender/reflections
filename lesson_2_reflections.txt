@@ -20,3 +20,7 @@ What is the result of merging two branches together? Why do we represent it in t
 One branch label is erased and combined with the master branch.
 Because the experimental branch was erased, it is almost as if
 it was subsumed into the master branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic is much faster. Manually, uhh... Idk.
